@@ -5,7 +5,7 @@ email: fluxoterra@gmail.com
 brand: Fluxo Terra
 headline: Reconexão, Regeneração
 description: > # this means to ignore newlines until "baseurl:"
-  New Site
+  Reconexão, Regeneração
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fluxoterra.github.io" # the base hostname & protocol for your site
 copyright: Site feito com ♥
